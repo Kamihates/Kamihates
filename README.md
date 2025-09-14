@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Kamihates
 - 👀 I’m interested in Gaming Development, Animes/Mangas, Cooking
-- 🌱 I’m currently learning in Gaming Campus Paris 
+- 🌱 I’m currently learning in IIM
 - 💞️ I’m looking to trainee ship in web development
-- 📫 How to reach me : tdang@gaming.tech
+- 📫 How to reach me : tony.dang@hotmail.fr
 
 <!---
 Kamihates/Kamihates is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
