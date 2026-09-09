@@ -49,6 +49,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kamihates&show_icons=true&locale=en&layout=compact" alt="kamihates" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kamihates&show_icons=true&locale=en" alt="kamihates" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=kamihates&show_icons=true&locale=en" alt="kamihates" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kamihates&" alt="kamihates" /></p>
