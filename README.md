@@ -44,11 +44,5 @@
   <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/>
 </a>
 
-</p>
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kamihates&show_icons=true&locale=en&layout=compact" alt="kamihates" /></p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=kamihates&show_icons=true&locale=en" alt="kamihates" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kamihates&" alt="kamihates" /></p>
