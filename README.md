@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="./assets/banner.png" alt="Tony Dang — Game Programmer" width="100%" />
-
 <a href="https://tdang.vercel.app">
   <img src="https://readme-typing-svg.demolab.com/?lines=Game+Programmer;Unity+%C2%B7+Unreal+Engine;Gameplay+%26+UI;Stage+de+4+%C3%A0+6+mois+%C2%B7+F%C3%A9vrier+2027&font=JetBrains%20Mono&weight=500&size=18&duration=3200&pause=1400&color=5EE1C8&center=true&vCenter=true&width=560&height=44" alt="Game Programmer · Unity · Unreal Engine · Gameplay & UI" />
 </a>
