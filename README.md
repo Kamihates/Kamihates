@@ -11,8 +11,7 @@
 <br /><br />
 
 <a href="https://tdang.vercel.app"><img src="https://img.shields.io/badge/PORTFOLIO-tdang.vercel.app-11141B?style=for-the-badge&logo=vercel&logoColor=5EE1C8&labelColor=0A0C10" alt="Portfolio" /></a>
-<!-- À REMPLACER : remplace TON-PSEUDO par ton pseudo itch.io -->
-<a href="https://TON-PSEUDO.itch.io"><img src="https://img.shields.io/badge/ITCH.IO-mon_profil-11141B?style=for-the-badge&logo=itchdotio&logoColor=5EE1C8&labelColor=0A0C10" alt="Profil itch.io" /></a>
+<a href="https://tonydng.itch.io"><img src="https://img.shields.io/badge/ITCH.IO-mon_profil-11141B?style=for-the-badge&logo=itchdotio&logoColor=5EE1C8&labelColor=0A0C10" alt="Profil itch.io" /></a>
 <a href="https://linkedin.com/in/tonydng0"><img src="https://img.shields.io/badge/LINKEDIN-tonydng0-11141B?style=for-the-badge&labelColor=0A0C10" alt="LinkedIn" /></a>
 <a href="mailto:tony.dang@hotmail.fr"><img src="https://img.shields.io/badge/EMAIL-tony.dang%40hotmail.fr-11141B?style=for-the-badge&labelColor=0A0C10" alt="Email" /></a>
 
