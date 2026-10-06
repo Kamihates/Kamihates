@@ -37,7 +37,6 @@ Je conçois et programme des **systèmes de gameplay** et d'**UI** sous **Unity*
     <td><b>Moteurs</b></td>
     <td>
       <img src="https://skillicons.dev/icons?i=unity,unreal&theme=dark" alt="Unity, Unreal Engine" />
-      <sub>&nbsp;Unreal : Blueprint &amp; C++</sub>
     </td>
   </tr>
   <tr>
@@ -47,8 +46,7 @@ Je conçois et programme des **systèmes de gameplay** et d'**UI** sous **Unity*
   <tr>
     <td><b>Outils</b></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=git,github,visualstudio,notion&theme=dark" alt="Git, GitHub, Visual Studio, Notion" />
-      <sub>&nbsp;Trello · Mantis (suivi de bugs)</sub>
+      <img src="https://skillicons.dev/icons?i=git,github,visualstudio,notion,mantis&theme=dark" alt="Git, GitHub, Visual Studio, Notion, Mantis" />
     </td>
   </tr>
 </table>
