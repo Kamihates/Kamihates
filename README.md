@@ -46,7 +46,7 @@ Je conçois et programme des **systèmes de gameplay** et d'**UI** sous **Unity*
   <tr>
     <td><b>Outils</b></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=git,github,visualstudio,notion,mantis&theme=dark" alt="Git, GitHub, Visual Studio, Notion, Mantis" />
+      <img src="https://skillicons.dev/icons?i=git,github,visualstudio,notion&theme=dark" alt="Git, GitHub, Visual Studio, Notion" />
     </td>
   </tr>
 </table>
