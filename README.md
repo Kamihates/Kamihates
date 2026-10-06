@@ -20,7 +20,7 @@
 
 <img src="./assets/separator.png" alt="" width="100%" />
 
-## `// À_PROPOS`
+## // À_PROPOS
 
 Étudiant en **3e année de Game Programming** à l'**IIM Digital School** (Nanterre).
 Je conçois et programme des **systèmes de gameplay** et d'**UI** sous **Unity** et **Unreal Engine**, avec pour objectif des expériences fluides, lisibles et agréables à jouer.
@@ -30,7 +30,7 @@ Je conçois et programme des **systèmes de gameplay** et d'**UI** sous **Unity*
 
 <img src="./assets/separator.png" alt="" width="100%" />
 
-## `// STACK`
+## // STACK
 
 <table>
   <tr>
@@ -55,7 +55,7 @@ Je conçois et programme des **systèmes de gameplay** et d'**UI** sous **Unity*
 
 <img src="./assets/separator.png" alt="" width="100%" />
 
-## `// PROJETS`
+## // PROJETS_PHARES
 
 | Projet | Contexte | Mon rôle | Liens |
 | :-- | :-- | :-- | :-- |
@@ -67,7 +67,7 @@ Tous mes projets en détail : **[tdang.vercel.app/work](https://tdang.vercel.app
 
 <img src="./assets/separator.png" alt="" width="100%" />
 
-## `// STATS_GITHUB`
+## // STATS_GITHUB
 
 <p align="center">
   <img src="./profile/stats.svg" alt="Statistiques GitHub" height="170" />
@@ -86,7 +86,5 @@ Tous mes projets en détail : **[tdang.vercel.app/work](https://tdang.vercel.app
 <img src="./assets/separator.png" alt="" width="100%" />
 
 <div align="center">
-
-**Une opportunité de stage ?** Écrivons-nous : [tony.dang@hotmail.fr](mailto:tony.dang@hotmail.fr) · [tdang.vercel.app](https://tdang.vercel.app)
 
 </div>
