@@ -19,7 +19,7 @@
 
 <img src="./assets/separator.png" alt="" width="100%" />
 
-### `//Stack`
+## `// Stack`
 
 <table>
   <tr>
@@ -42,7 +42,7 @@
 
 <img src="./assets/separator.png" alt="" width="100%" />
 
-### `// Featured_projects`
+## `// Featured_projects`
 
 | Project | Context | My role | Links |
 | :-- | :-- | :-- | :-- |
@@ -54,7 +54,7 @@ All my projects in detail: **[tdang.vercel.app/work](https://tdang.vercel.app/wo
 
 <img src="./assets/separator.png" alt="" width="100%" />
 
-### `// Github_stats`
+## `// Github_stats`
 
 <p align="center">
   <img src="./profile/stats.svg" alt="GitHub stats" height="170" />
