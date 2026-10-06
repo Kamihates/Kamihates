@@ -10,7 +10,7 @@ permissions:
 
 jobs:
   build:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-24.04
     steps:
       - uses: actions/checkout@v6
 
@@ -31,6 +31,7 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Generate contribution snake
+        continue-on-error: true
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
@@ -42,6 +43,8 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add profile/*.svg
-          git commit -m "chore: update README cards" || exit 0
+          git add -A profile
+          git diff --cached --quiet && echo "Aucun changement" && exit 0
+          git commit -m "chore: update README cards"
+          git pull --rebase origin ${{ github.ref_name }}
           git push
