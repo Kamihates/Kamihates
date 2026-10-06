@@ -19,16 +19,6 @@
 
 <img src="./assets/separator.png" alt="" width="100%" />
 
-## // À_PROPOS
-
-Étudiant en **3e année de Game Programming** à l'**IIM Digital School** (Nanterre).
-Je conçois et programme des **systèmes de gameplay** et d'**UI** sous **Unity** et **Unreal Engine**, avec pour objectif des expériences fluides, lisibles et agréables à jouer.
-
-- **Spécialités** : programmation gameplay · UI/UX
-- **Recherche** : stage de **4 à 6 mois** en temps plein, à partir de **février 2027** (Île-de-France)
-
-<img src="./assets/separator.png" alt="" width="100%" />
-
 ## // STACK
 
 <table>
