@@ -2,7 +2,7 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/typing-dark.svg" />
-  <img src="./assets/typing-light.svg" alt="Tony DANG / Kamihates — Gameplay Programmer : Unity, Unreal — Student 3rd year Game Programming | IIM" width="680" />
+  <img src="./assets/typing-light.svg" alt="Tony DANG / Kamihate — Gameplay Programmer : Unity, Unreal — Student 3rd year Game Programming | IIM" width="680" />
 </picture>
 
 <br />
