@@ -35,7 +35,7 @@
   </a>
 </p>
 
-## // FEATURED_PROJECTS
+## // Featured_Projects
 
 | Project | Context | My role | Links |
 | :-- | :-- | :-- | :-- |
@@ -43,11 +43,9 @@
 | **Fallen Arcanes** | Mobile puzzle · Unity (C#)<br />Team of 6 · 2026 | Domino adjacency · combos (UI) · deck & data · game state | [![Google Play](https://img.shields.io/badge/Google_Play-0A0C10?style=flat-square&logo=googleplay&logoColor=5EE1C8)](https://play.google.com/store/apps/details?id=com.IIMaxeJV.FallenArcanes&hl=en) [![itch.io](https://img.shields.io/badge/itch.io-0A0C10?style=flat-square&logo=itchdotio&logoColor=5EE1C8)](https://jeremie-molina.itch.io/fallen-arcanes) |
 | **Scatboard** | Platformer · Unity (C#)<br />Team of 4 · 2025 | Controls · camera · collectibles · dialogue · UI · progression | [![Portfolio](https://img.shields.io/badge/Portfolio-0A0C10?style=flat-square&logo=vercel&logoColor=5EE1C8)](https://tdang.vercel.app/work) |
 
-All my projects in detail: **[tdang.vercel.app/work](https://tdang.vercel.app/work)**
+All my projects in detail : **[tdang.vercel.app/work](https://tdang.vercel.app/work)**
 
-<img src="./assets/separator.png" alt="" width="100%" />
-
-## // GITHUB_STATS
+## // Github_Stats
 
 <p align="center">
   <img src="./profile/stats.svg" alt="GitHub stats" height="170" />
