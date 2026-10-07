@@ -10,39 +10,44 @@
 
 <br /><br />
 
-<a href="https://tdang.vercel.app"><img src="https://img.shields.io/badge/PORTFOLIO-tdang.vercel.app-11141B?style=for-the-badge&logo=vercel&logoColor=5EE1C8&labelColor=0A0C10" alt="Portfolio" /></a>
-<a href="https://tonydng.itch.io"><img src="https://img.shields.io/badge/ITCH.IO-my_profile-11141B?style=for-the-badge&logo=itchdotio&logoColor=5EE1C8&labelColor=0A0C10" alt="itch.io profile" /></a>
-<a href="https://linkedin.com/in/tonydng0"><img src="https://img.shields.io/badge/LINKEDIN-tonydng0-11141B?style=for-the-badge&labelColor=0A0C10&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iIzVFRTFDOCI%2BPHBhdGggZD0iTTIwLjQ0NyAyMC40NTJoLTMuNTU0di01LjU2OWMwLTEuMzI4LS4wMjctMy4wMzctMS44NTItMy4wMzctMS44NTMgMC0yLjEzNiAxLjQ0NS0yLjEzNiAyLjkzOXY1LjY2N0g5LjM1MVY5aDMuNDE0djEuNTYxaC4wNDZjLjQ3Ny0uOSAxLjYzNy0xLjg1IDMuMzctMS44NSAzLjYwMSAwIDQuMjY3IDIuMzcgNC4yNjcgNS40NTV2Ni4yODZ6TTUuMzM3IDcuNDMzYy0xLjE0NCAwLTIuMDYzLS45MjYtMi4wNjMtMi4wNjUgMC0xLjEzOC45Mi0yLjA2MyAyLjA2My0yLjA2MyAxLjE0IDAgMi4wNjQuOTI1IDIuMDY0IDIuMDYzIDAgMS4xMzktLjkyNSAyLjA2NS0yLjA2NCAyLjA2NXptMS43ODIgMTMuMDE5SDMuNTU1VjloMy41NjR2MTEuNDUyek0yMi4yMjUgMEgxLjc3MUMuNzkyIDAgMCAuNzc0IDAgMS43Mjl2MjAuNTQyQzAgMjMuMjI3Ljc5MiAyNCAxLjc3MSAyNGgyMC40NTFDMjMuMiAyNCAyNCAyMy4yMjcgMjQgMjIuMjcxVjEuNzI5QzI0IC43NzQgMjMuMiAwIDIyLjIyMiAwaC4wMDN6Ii8%2BPC9zdmc%2B" alt="LinkedIn" /></a>
-<a href="mailto:tony.dang@hotmail.fr"><img src="https://img.shields.io/badge/EMAIL-tony.dang%40hotmail.fr-11141B?style=for-the-badge&labelColor=0A0C10&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IiM1RUUxQzgiIHN0cm9rZS13aWR0aD0iMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIj48cGF0aCBkPSJtMjIgNy04Ljk5MSA1LjcyN2EyIDIgMCAwIDEtMi4wMDkgMEwyIDciLz48cmVjdCB4PSIyIiB5PSI0IiB3aWR0aD0iMjAiIGhlaWdodD0iMTYiIHJ4PSIyIi8%2BPC9zdmc%2B" alt="Email" /></a>
+<a href="https://tdang.vercel.app"><img src="./assets/icons/portfolio.png" width="56" alt="Portfolio" /></a>&nbsp;&nbsp;
+<a href="./assets/CV_Tony_Dang.pdf"><img src="./assets/icons/cv.png" width="56" alt="CV" /></a>&nbsp;&nbsp;
+<a href="https://linkedin.com/in/tonydng0"><img src="./assets/icons/linkedin.png" width="56" alt="LinkedIn" /></a>&nbsp;&nbsp;
+<a href="https://tonydng.itch.io"><img src="./assets/icons/itchio.png" width="56" alt="itch.io" /></a>&nbsp;&nbsp;
+<!-- À REMPLACER : TON_ID_DISCORD = ton identifiant numérique Discord -->
+<a href="https://discord.com/users/TON_ID_DISCORD"><img src="./assets/icons/discord.png" width="56" alt="Discord" /></a>
 
 </div>
 
 <img src="./assets/separator.png" alt="" width="100%" />
 
-## `// Stack`
+## // STACK
 
-<table>
-  <tr>
-    <td><b>Engines</b></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=unity,unreal&theme=dark" alt="Unity, Unreal Engine" />
-    </td>
-  </tr>
-  <tr>
-    <td><b>Languages</b></td>
-    <td><img src="https://skillicons.dev/icons?i=cs,cpp,py&theme=dark" alt="C#, C++, Python" /></td>
-  </tr>
-  <tr>
-    <td><b>Tools</b></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=git,github,visualstudio,notion&theme=dark" alt="Git, GitHub, Visual Studio, Notion" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="./assets/badges/unity.png" height="30" alt="Unity" />&nbsp;
+  <img src="./assets/badges/unreal.png" height="30" alt="Unreal Engine" />&nbsp;
+  <img src="./assets/badges/blueprint.png" height="30" alt="Blueprint" />&nbsp;
+  <img src="./assets/badges/csharp.png" height="30" alt="C#" />&nbsp;
+  <img src="./assets/badges/cpp.png" height="30" alt="C++" />&nbsp;
+  <img src="./assets/badges/github.png" height="30" alt="GitHub" />&nbsp;
+  <img src="./assets/badges/fork.png" height="30" alt="Fork" />&nbsp;
+  <img src="./assets/badges/notion.png" height="30" alt="Notion" />&nbsp;
+  <img src="./assets/badges/trello.png" height="30" alt="Trello" />
+</p>
 
 <img src="./assets/separator.png" alt="" width="100%" />
 
-## `// Featured_projects`
+## // NOW_PLAYING
+
+<p align="center">
+  <a href="https://widgets.1ceit.com/Kamihates/spotify?open">
+    <img src="https://widgets.1ceit.com/Kamihates/spotify" alt="Now playing on Spotify" />
+  </a>
+</p>
+
+<img src="./assets/separator.png" alt="" width="100%" />
+
+## // FEATURED_PROJECTS
 
 | Project | Context | My role | Links |
 | :-- | :-- | :-- | :-- |
@@ -54,7 +59,7 @@ All my projects in detail: **[tdang.vercel.app/work](https://tdang.vercel.app/wo
 
 <img src="./assets/separator.png" alt="" width="100%" />
 
-## `// Github_stats`
+## // GITHUB_STATS
 
 <p align="center">
   <img src="./profile/stats.svg" alt="GitHub stats" height="170" />
