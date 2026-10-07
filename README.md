@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.demolab.com/?lines=Game+Programmer;Unity+%C2%B7+Unreal+Engine;Gameplay+%26+UI;4+to+6+month+internship+%C2%B7+February+2027&font=JetBrains%20Mono&weight=500&size=18&duration=3200&pause=1400&color=5EE1C8&center=true&vCenter=true&width=560&height=44" alt="Game Programmer · Unity · Unreal Engine · Gameplay & UI" />
 </a>
 
-<br />
+<br><br/>
 
 <img src="https://img.shields.io/badge/STATUS-OPEN__TO__OPPORTUNITIES-5EE1C8?style=for-the-badge&labelColor=0A0C10" alt="Status: open to opportunities" />
 
