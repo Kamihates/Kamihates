@@ -14,14 +14,11 @@
 <a href="./assets/CV_Tony_Dang.pdf"><img src="./assets/icons/cv.png" width="56" alt="CV" /></a>&nbsp;&nbsp;
 <a href="https://linkedin.com/in/tonydng0"><img src="./assets/icons/linkedin.png" width="56" alt="LinkedIn" /></a>&nbsp;&nbsp;
 <a href="https://tonydng.itch.io"><img src="./assets/icons/itchio.png" width="56" alt="itch.io" /></a>&nbsp;&nbsp;
-<!-- À REMPLACER : TON_ID_DISCORD = ton identifiant numérique Discord -->
-<a href="https://discord.com/users/TON_ID_DISCORD"><img src="./assets/icons/discord.png" width="56" alt="Discord" /></a>
+<a href="https://discord.com/users/286967208096301057"><img src="./assets/icons/discord.png" width="56" alt="Discord" /></a>
 
 </div>
 
 <img src="./assets/separator.png" alt="" width="100%" />
-
-### // STACK
 
 <p align="center">
   <img src="./assets/badges/unity.png" height="30" alt="Unity" />&nbsp;
@@ -34,8 +31,6 @@
   <img src="./assets/badges/notion.png" height="30" alt="Notion" />&nbsp;
   <img src="./assets/badges/trello.png" height="30" alt="Trello" />
 </p>
-
-<img src="./assets/separator.png" alt="" width="100%" />
 
 <p align="center">
   <a href="https://widgets.1ceit.com/Kamihates/spotify?open">
