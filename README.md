@@ -8,8 +8,6 @@
 
 <img src="https://img.shields.io/badge/STATUS-OPEN__TO__OPPORTUNITIES-5EE1C8?style=for-the-badge&labelColor=0A0C10" alt="Status: open to opportunities" />
 
-<br /><br />
-
 <a href="https://tdang.vercel.app"><img src="./assets/icons/portfolio.png" width="56" alt="Portfolio" /></a>&nbsp;&nbsp;
 <a href="./assets/CV_Tony_Dang.pdf"><img src="./assets/icons/cv.png" width="56" alt="CV" /></a>&nbsp;&nbsp;
 <a href="https://linkedin.com/in/tonydng0"><img src="./assets/icons/linkedin.png" width="56" alt="LinkedIn" /></a>&nbsp;&nbsp;
