@@ -29,16 +29,11 @@
   <img src="./assets/badges/trello.png" height="28" alt="Trello" />
 </p>
 
-<img src="./assets/separator.png" alt="" width="100%" />
-
-<!-- À REMPLACER : TON_PSEUDO_LASTFM = ton pseudo Last.fm (2 endroits) -->
 <p align="center">
   <a href="https://www.last.fm/user/Kamihates">
     <img src="https://lastfm-recently-played.jeffreyca.workers.dev/svg?user=Kamihates&count=1&width=420&radius=8&bg_color=0A0C10&text_color=E6E9EE&artist_color=8A94A6&meta_color=8A94A6&accent_color=5EE1C8&header=0&logo=0&profile=off&footer=wave" alt="Now playing" />
   </a>
 </p>
-
-<img src="./assets/separator.png" alt="" width="100%" />
 
 ## // FEATURED_PROJECTS
 
