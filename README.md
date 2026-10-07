@@ -40,7 +40,7 @@
 
 <img src="./assets/separator.png" alt="" width="100%" />
 
-### // FEATURED_PROJECTS
+## // Featured_projects 
 
 | Project | Context | My role | Links |
 | :-- | :-- | :-- | :-- |
@@ -52,7 +52,7 @@ All my projects in detail: **[tdang.vercel.app/work](https://tdang.vercel.app/wo
 
 <img src="./assets/separator.png" alt="" width="100%" />
 
-## // GITHUB_STATS
+## // Github_stats
 
 <p align="center">
   <img src="./profile/stats.svg" alt="GitHub stats" height="170" />
