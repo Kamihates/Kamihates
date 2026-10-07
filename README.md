@@ -21,7 +21,7 @@
 
 <img src="./assets/separator.png" alt="" width="100%" />
 
-## // STACK
+### // STACK
 
 <p align="center">
   <img src="./assets/badges/unity.png" height="30" alt="Unity" />&nbsp;
@@ -37,8 +37,6 @@
 
 <img src="./assets/separator.png" alt="" width="100%" />
 
-## // NOW_PLAYING
-
 <p align="center">
   <a href="https://widgets.1ceit.com/Kamihates/spotify?open">
     <img src="https://widgets.1ceit.com/Kamihates/spotify" alt="Now playing on Spotify" />
@@ -47,7 +45,7 @@
 
 <img src="./assets/separator.png" alt="" width="100%" />
 
-## // FEATURED_PROJECTS
+### // FEATURED_PROJECTS
 
 | Project | Context | My role | Links |
 | :-- | :-- | :-- | :-- |
