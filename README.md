@@ -35,7 +35,7 @@
   </a>
 </p>
 
-## // Featured_Projects
+## Featured Projects
 
 | Project | Context | My role | Links |
 | :-- | :-- | :-- | :-- |
@@ -45,7 +45,7 @@
 
 All my projects in detail : **[tdang.vercel.app/work](https://tdang.vercel.app/work)**
 
-## // Github_Stats
+## Github Stats
 
 <p align="center">
   <img src="./profile/stats.svg" alt="GitHub stats" height="170" />
