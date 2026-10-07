@@ -16,6 +16,8 @@
 <a href="https://tonydng.itch.io"><img src="./assets/icons/itchio.png" width="56" alt="itch.io" /></a>&nbsp;&nbsp;
 <a href="https://discord.com/users/286967208096301057"><img src="./assets/icons/discord.png" width="56" alt="Discord" /></a>
 
+<img src="./assets/separator.png" alt="" width="100%" />
+
 </div>
 
 <p align="center">
