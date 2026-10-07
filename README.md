@@ -1,18 +1,18 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/title-dark.png" />
-  <img src="./assets/title-light.png" alt="Tony DANG — Game Programmer | Unity | Unreal Engine — Open to a 4–6 month internship, February 2027" width="620" />
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/typing-dark.svg" />
+  <img src="./assets/typing-light.svg" alt="Tony DANG / Kamihates — Gameplay Programmer : Unity, Unreal — Student 3rd year Game Programming | IIM" width="520" />
 </picture>
 
-<br /><br />
+<br />
 
-<a href="https://tdang.vercel.app"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/icons/portfolio-white.png" /><img src="./assets/icons/portfolio-dark.png" width="44" alt="Portfolio" /></picture></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="./assets/CV_Tony_Dang.pdf"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/icons/cv-white.png" /><img src="./assets/icons/cv-dark.png" width="44" alt="CV" /></picture></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://linkedin.com/in/tonydng0"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/icons/linkedin-white.png" /><img src="./assets/icons/linkedin-dark.png" width="44" alt="LinkedIn" /></picture></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://tonydng.itch.io"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/icons/itchio-white.png" /><img src="./assets/icons/itchio-dark.png" width="44" alt="itch.io" /></picture></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://tdang.vercel.app"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/icons/portfolio-white.png" /><img src="./assets/icons/portfolio-dark.png" width="30" alt="Portfolio" /></picture></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="./assets/CV_Tony_Dang.pdf"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/icons/cv-white.png" /><img src="./assets/icons/cv-dark.png" width="30" alt="CV" /></picture></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://linkedin.com/in/tonydng0"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/icons/linkedin-white.png" /><img src="./assets/icons/linkedin-dark.png" width="30" alt="LinkedIn" /></picture></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://tonydng.itch.io"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/icons/itchio-white.png" /><img src="./assets/icons/itchio-dark.png" width="30" alt="itch.io" /></picture></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <!-- À REMPLACER : TON_ID_DISCORD = ton identifiant numérique Discord -->
-<a href="https://discord.com/users/TON_ID_DISCORD"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/icons/discord-white.png" /><img src="./assets/icons/discord-dark.png" width="44" alt="Discord" /></picture></a>
+<a href="https://discord.com/users/TON_ID_DISCORD"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/icons/discord-white.png" /><img src="./assets/icons/discord-dark.png" width="30" alt="Discord" /></picture></a>
 
 </div>
 
