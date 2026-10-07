@@ -4,19 +4,24 @@
   <img src="https://readme-typing-svg.demolab.com/?lines=Game+Programmer;Unity+%C2%B7+Unreal+Engine;Gameplay+%26+UI;4+to+6+month+internship+%C2%B7+February+2027&font=JetBrains%20Mono&weight=500&size=18&duration=3200&pause=1400&color=5EE1C8&center=true&vCenter=true&width=560&height=44" alt="Game Programmer · Unity · Unreal Engine · Gameplay & UI" />
 </a>
 
+<br />
+
 <img src="https://img.shields.io/badge/STATUS-OPEN__TO__OPPORTUNITIES-5EE1C8?style=for-the-badge&labelColor=0A0C10" alt="Status: open to opportunities" />
 
-<br><br/>
+<br /><br />
 
 <a href="https://tdang.vercel.app"><img src="./assets/icons/portfolio.png" width="56" alt="Portfolio" /></a>&nbsp;&nbsp;
 <a href="./assets/CV_Tony_Dang.pdf"><img src="./assets/icons/cv.png" width="56" alt="CV" /></a>&nbsp;&nbsp;
 <a href="https://linkedin.com/in/tonydng0"><img src="./assets/icons/linkedin.png" width="56" alt="LinkedIn" /></a>&nbsp;&nbsp;
 <a href="https://tonydng.itch.io"><img src="./assets/icons/itchio.png" width="56" alt="itch.io" /></a>&nbsp;&nbsp;
-<a href="https://discord.com/users/286967208096301057"><img src="./assets/icons/discord.png" width="56" alt="Discord" /></a>
+<!-- À REMPLACER : TON_ID_DISCORD = ton identifiant numérique Discord -->
+<a href="https://discord.com/users/TON_ID_DISCORD"><img src="./assets/icons/discord.png" width="56" alt="Discord" /></a>
+
+</div>
 
 <img src="./assets/separator.png" alt="" width="100%" />
 
-</div>
+## // STACK
 
 <p align="center">
   <img src="./assets/badges/unity.png" height="30" alt="Unity" />&nbsp;
@@ -30,6 +35,10 @@
   <img src="./assets/badges/trello.png" height="30" alt="Trello" />
 </p>
 
+<img src="./assets/separator.png" alt="" width="100%" />
+
+## // NOW_PLAYING
+
 <p align="center">
   <a href="https://widgets.1ceit.com/Kamihates/spotify?open">
     <img src="https://widgets.1ceit.com/Kamihates/spotify" alt="Now playing on Spotify" />
@@ -38,7 +47,7 @@
 
 <img src="./assets/separator.png" alt="" width="100%" />
 
-## // Featured_projects 
+## // FEATURED_PROJECTS
 
 | Project | Context | My role | Links |
 | :-- | :-- | :-- | :-- |
@@ -50,7 +59,7 @@ All my projects in detail: **[tdang.vercel.app/work](https://tdang.vercel.app/wo
 
 <img src="./assets/separator.png" alt="" width="100%" />
 
-## // Github_stats
+## // GITHUB_STATS
 
 <p align="center">
   <img src="./profile/stats.svg" alt="GitHub stats" height="170" />
