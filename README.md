@@ -11,8 +11,7 @@
 <a href="./assets/CV_Tony_Dang.pdf"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/icons/cv-white.png" /><img src="./assets/icons/cv-dark.png" height="36" align="middle" alt="CV" /></picture></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://linkedin.com/in/tonydng0"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/icons/linkedin-white.png" /><img src="./assets/icons/linkedin-dark.png" height="36" align="middle" alt="LinkedIn" /></picture></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://tonydng.itch.io"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/icons/itchio-white.png" /><img src="./assets/icons/itchio-dark.png" height="36" align="middle" alt="itch.io" /></picture></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<!-- À REMPLACER : TON_ID_DISCORD = ton identifiant numérique Discord -->
-<a href="https://discord.com/users/TON_ID_DISCORD"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/icons/discord-white.png" /><img src="./assets/icons/discord-dark.png" height="36" align="middle" alt="Discord" /></picture></a>
+<a href="https://discord.com/users/286967208096301057"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/icons/discord-white.png" /><img src="./assets/icons/discord-dark.png" height="36" align="middle" alt="Discord" /></picture></a>
 
 </div>
 
@@ -34,8 +33,8 @@
 
 <!-- À REMPLACER : TON_PSEUDO_LASTFM = ton pseudo Last.fm (2 endroits) -->
 <p align="center">
-  <a href="https://www.last.fm/user/TON_PSEUDO_LASTFM">
-    <img src="https://lastfm-recently-played.jeffreyca.workers.dev/svg?user=TON_PSEUDO_LASTFM&count=1&width=420&radius=8&bg_color=0A0C10&text_color=E6E9EE&artist_color=8A94A6&meta_color=8A94A6&accent_color=5EE1C8&header=0&logo=0&profile=off&footer=wave" alt="Now playing" />
+  <a href="https://www.last.fm/user/Kamihates">
+    <img src="https://lastfm-recently-played.jeffreyca.workers.dev/svg?user=Kamihates&count=1&width=420&radius=8&bg_color=0A0C10&text_color=E6E9EE&artist_color=8A94A6&meta_color=8A94A6&accent_color=5EE1C8&header=0&logo=0&profile=off&footer=wave" alt="Now playing" />
   </a>
 </p>
 
