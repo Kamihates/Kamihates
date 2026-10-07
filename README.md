@@ -1,47 +1,41 @@
 <div align="center">
 
-<a href="https://tdang.vercel.app">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Game+Programmer;Unity+%C2%B7+Unreal+Engine;Gameplay+%26+UI;4+to+6+month+internship+%C2%B7+February+2027&font=JetBrains%20Mono&weight=500&size=18&duration=3200&pause=1400&color=5EE1C8&center=true&vCenter=true&width=560&height=44" alt="Game Programmer · Unity · Unreal Engine · Gameplay & UI" />
-</a>
-
-<br />
-
-<img src="https://img.shields.io/badge/STATUS-OPEN__TO__OPPORTUNITIES-5EE1C8?style=for-the-badge&labelColor=0A0C10" alt="Status: open to opportunities" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/title-dark.png" />
+  <img src="./assets/title-light.png" alt="Tony DANG — Game Programmer | Unity | Unreal Engine — Open to a 4–6 month internship, February 2027" width="620" />
+</picture>
 
 <br /><br />
 
-<a href="https://tdang.vercel.app"><img src="./assets/icons/portfolio.png" width="56" alt="Portfolio" /></a>&nbsp;&nbsp;
-<a href="./assets/CV_Tony_Dang.pdf"><img src="./assets/icons/cv.png" width="56" alt="CV" /></a>&nbsp;&nbsp;
-<a href="https://linkedin.com/in/tonydng0"><img src="./assets/icons/linkedin.png" width="56" alt="LinkedIn" /></a>&nbsp;&nbsp;
-<a href="https://tonydng.itch.io"><img src="./assets/icons/itchio.png" width="56" alt="itch.io" /></a>&nbsp;&nbsp;
+<a href="https://tdang.vercel.app"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/icons/portfolio-white.png" /><img src="./assets/icons/portfolio-dark.png" width="44" alt="Portfolio" /></picture></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="./assets/CV_Tony_Dang.pdf"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/icons/cv-white.png" /><img src="./assets/icons/cv-dark.png" width="44" alt="CV" /></picture></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://linkedin.com/in/tonydng0"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/icons/linkedin-white.png" /><img src="./assets/icons/linkedin-dark.png" width="44" alt="LinkedIn" /></picture></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://tonydng.itch.io"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/icons/itchio-white.png" /><img src="./assets/icons/itchio-dark.png" width="44" alt="itch.io" /></picture></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <!-- À REMPLACER : TON_ID_DISCORD = ton identifiant numérique Discord -->
-<a href="https://discord.com/users/TON_ID_DISCORD"><img src="./assets/icons/discord.png" width="56" alt="Discord" /></a>
+<a href="https://discord.com/users/TON_ID_DISCORD"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/icons/discord-white.png" /><img src="./assets/icons/discord-dark.png" width="44" alt="Discord" /></picture></a>
 
 </div>
 
 <img src="./assets/separator.png" alt="" width="100%" />
 
-## // STACK
-
 <p align="center">
-  <img src="./assets/badges/unity.png" height="30" alt="Unity" />&nbsp;
-  <img src="./assets/badges/unreal.png" height="30" alt="Unreal Engine" />&nbsp;
-  <img src="./assets/badges/blueprint.png" height="30" alt="Blueprint" />&nbsp;
-  <img src="./assets/badges/csharp.png" height="30" alt="C#" />&nbsp;
-  <img src="./assets/badges/cpp.png" height="30" alt="C++" />&nbsp;
-  <img src="./assets/badges/github.png" height="30" alt="GitHub" />&nbsp;
-  <img src="./assets/badges/fork.png" height="30" alt="Fork" />&nbsp;
-  <img src="./assets/badges/notion.png" height="30" alt="Notion" />&nbsp;
-  <img src="./assets/badges/trello.png" height="30" alt="Trello" />
+  <img src="./assets/badges/unity.png" height="28" alt="Unity" />&nbsp;
+  <img src="./assets/badges/unreal.png" height="28" alt="Unreal Engine" />&nbsp;
+  <img src="./assets/badges/blueprint.png" height="28" alt="Blueprint" />&nbsp;
+  <img src="./assets/badges/csharp.png" height="28" alt="C#" />&nbsp;
+  <img src="./assets/badges/cpp.png" height="28" alt="C++" />&nbsp;
+  <img src="./assets/badges/github.png" height="28" alt="GitHub" />&nbsp;
+  <img src="./assets/badges/fork.png" height="28" alt="Fork" />&nbsp;
+  <img src="./assets/badges/notion.png" height="28" alt="Notion" />&nbsp;
+  <img src="./assets/badges/trello.png" height="28" alt="Trello" />
 </p>
 
 <img src="./assets/separator.png" alt="" width="100%" />
 
-## // NOW_PLAYING
-
+<!-- À REMPLACER : TON_PSEUDO_LASTFM = ton pseudo Last.fm (2 endroits) -->
 <p align="center">
-  <a href="https://widgets.1ceit.com/Kamihates/spotify?open">
-    <img src="https://widgets.1ceit.com/Kamihates/spotify" alt="Now playing on Spotify" />
+  <a href="https://www.last.fm/user/TON_PSEUDO_LASTFM">
+    <img src="https://lastfm-recently-played.jeffreyca.workers.dev/svg?user=TON_PSEUDO_LASTFM&count=1&width=420&radius=8&bg_color=0A0C10&text_color=E6E9EE&artist_color=8A94A6&meta_color=8A94A6&accent_color=5EE1C8&header=0&logo=0&profile=off&footer=wave" alt="Now playing" />
   </a>
 </p>
 
