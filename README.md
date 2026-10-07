@@ -18,8 +18,6 @@
 
 </div>
 
-<img src="./assets/separator.png" alt="" width="100%" />
-
 <p align="center">
   <img src="./assets/badges/unity.png" height="30" alt="Unity" />&nbsp;
   <img src="./assets/badges/unreal.png" height="30" alt="Unreal Engine" />&nbsp;
